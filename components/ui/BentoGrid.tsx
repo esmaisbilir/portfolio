@@ -176,7 +176,12 @@ export const BentoGridItem = ({
               >
                 <img src="/confetti.gif" alt="confetti" /> 
                 <Lottie options={{
-                  loop: 
+                  loop: copied,
+                  autoplay: copied,
+                  animationData: animationData,
+                  rendererSettings: {
+                    preserveAspectRatio: 'xMidYMid slice'
+                  }
                 }} />
               </div>
 
