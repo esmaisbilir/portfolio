@@ -174,7 +174,7 @@ export const BentoGridItem = ({
                 className={`absolute -bottom-5 right-0 ${copied ? "block" : "block"
                   }`}
               >
-                <img src="/confetti.gif" alt="confetti" /> 
+                {/*<img src="/confetti.gif" alt="confetti" /> 
                 <Lottie options={{
                   loop: copied,
                   autoplay: copied,
@@ -182,7 +182,7 @@ export const BentoGridItem = ({
                   rendererSettings: {
                     preserveAspectRatio: 'xMidYMid slice'
                   }
-                }} />
+                }} /> */}
               </div>
 
               {/* <MagicButton
