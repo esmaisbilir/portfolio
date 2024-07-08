@@ -71,7 +71,7 @@ export const projects = [
   {
     id: 1,
     title: "Getir Clone",
-    des: "Explore the wonders of our solar system with this captivating 3D simulation of the planets using Three.js.",
+    des: "This project is a one-page cloned version of the Getir website interface.",
     img: "/p1.png",
     iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/three.svg", "/fm.svg"],
     link: "https://github.com/esmaisbilir/getir-clone",
