@@ -103,7 +103,7 @@ export const projects = [
   {
     id: 5,
     title: "Amazon Clone",
-    des: "Recreated the Apple iPhone 15 Pro website, combining GSAP animations and Three.js 3D effects..",
+    des: "A clone version of the Amazon Shopping Website, where you can add your products to the cart.",
     img: "/p5.png",
     iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/three.svg", "/gsap.svg"],
     link: "https://github.com/esmaisbilir/react-amazon-clone",
