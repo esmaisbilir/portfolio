@@ -119,7 +119,7 @@ export const projects = [
   {
     id: 7,
     title: "Acme Dashboard",
-    des: "Recreated the Apple iPhone 15 Pro website, combining GSAP animations and Three.js 3D effects..",
+    des: "I completed the course created to learn the basics of Next.js by creating a fully functional demo website.",
     img: "/p7.png",
     iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/three.svg", "/gsap.svg"],
     link: "https://github.com/esmaisbilir/nextjs-dashboard",
@@ -127,7 +127,7 @@ export const projects = [
   {
     id: 8,
     title: "Calculator",
-    des: "Recreated the Apple iPhone 15 Pro website, combining GSAP animations and Three.js 3D effects..",
+    des: "This is a Calculator application built with react.js.",
     img: "/p8.png",
     iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/three.svg", "/gsap.svg"],
     link: "https://github.com/esmaisbilir/react-calculator",
